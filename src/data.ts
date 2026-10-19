@@ -26,7 +26,7 @@ export const experiences = [
 
 export const managementExperience = [
   { role:'Project Advisor & HCI Researcher', org:'Ghush', date:'August 2026 – Present', mark:'ঘুষ', points:['Directed the planning and delivery of a privacy-conscious bribery reporting platform, translating research goals and user-safety requirements into a structured product roadmap.','Supervised the design and development workflow for anonymous reporting, AI-assisted content filtering, human review, and responsible handling of sensitive public-interest reports.'] },
-  { role:'Project Manager & Campaign Coordinator', org:'Social Square', date:'October 2025 – March 2026', mark:'SS', points:['Led product coordination for a collaborative campaign platform, organizing priorities and guiding the team from concept development through implementation and presentation.','Supervised work across partner discovery, campaign coordination, and communication workflows, contributing to the project earning third place in the 2026 National Undergraduate Startup Challenge.'] }
+  { role:'Project Manager & Campaign Coordinator', org:'Social Square', date:'October 2025 – March 2026', mark:'Social Square', logo:'/logos/social-square.png', points:['Led product coordination for a collaborative campaign platform, organizing priorities and guiding the team from concept development through implementation and presentation.','Supervised work across partner discovery, campaign coordination, and communication workflows, contributing to the project earning third place in the 2026 National Undergraduate Startup Challenge.'] }
 ];
 
 export const skillGroups: [string,string[]][] = [
