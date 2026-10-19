@@ -24,6 +24,11 @@ export const experiences = [
   { type:'Technical experience', role:'Web Development Intern', org:'Interactive Cares, Dhaka', date:'Feb–Apr 2023', mark:'IC', points:['Developed responsive web interfaces with reusable components using HTML, CSS, JavaScript, and React, with close attention to usability, visual consistency, and maintainable implementation.','Contributed to frontend delivery and full stack development workflows, strengthening practical experience in translating requirements into functional features for users.'] }
 ];
 
+export const managementExperience = [
+  { role:'Project Advisor & HCI Researcher', org:'Ghush', date:'August 2026 – Present', mark:'ঘুষ', points:['Directed the planning and delivery of a privacy-conscious bribery reporting platform, translating research goals and user-safety requirements into a structured product roadmap.','Supervised the design and development workflow for anonymous reporting, AI-assisted content filtering, human review, and responsible handling of sensitive public-interest reports.'] },
+  { role:'Project Manager & Campaign Coordinator', org:'Social Square', date:'October 2025 – March 2026', mark:'SS', points:['Led product coordination for a collaborative campaign platform, organizing priorities and guiding the team from concept development through implementation and presentation.','Supervised work across partner discovery, campaign coordination, and communication workflows, contributing to the project earning third place in the 2026 National Undergraduate Startup Challenge.'] }
+];
+
 export const skillGroups: [string,string[]][] = [
   ['Research & User Studies',['Study design','Surveys and interviews','Usability testing','Qualitative analysis','Statistical analysis','Dataset preparation','Academic writing']],
   ['Machine Learning & Data Analysis',['Python','SQL','Pandas','NumPy','Scikit learn','PyTorch','TensorFlow','Machine learning','Natural language processing','Model evaluation','Explainable AI']],
