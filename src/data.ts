@@ -5,7 +5,7 @@ export const links = {
   doi: 'https://doi.org/10.1145/3704522.3704534'
 };
 
-export const nav = ['About', 'Education', 'Research Experience', 'Technical Experience', 'Skills', 'Publications', 'Research Projects', 'Technical Projects', 'Achievements', 'Certifications', 'References'];
+export const nav = ['About', 'Education', 'Research Experience', 'Technical Experience', 'Management & Supervision', 'Skills', 'Publications', 'Research Projects', 'Technical Projects', 'Achievements', 'Certifications', 'References'];
 
 export const interests = ['Human-Computer Interaction (HCI) and CSCW','Human-Centered and Trustworthy AI','Human–AI Interaction','Mixed-Methods User Research','Security, Privacy and Digital Trust','AI-Assisted Decision Support'];
 
